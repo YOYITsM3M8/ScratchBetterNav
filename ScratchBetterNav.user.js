@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Scratch BetterNav
+// @name         ScratchBetterNav
 // @namespace    https://github.com/YOYITsM3M8/ScratchBetterNav
 // @version      1.0
 // @description  Gets rid of 'about' and 'ideas' and replaces with 'discuss' and 'wiki'
